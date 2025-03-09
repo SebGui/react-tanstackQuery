@@ -5,9 +5,9 @@ Training around TanStack Query usage :
 - useQuery attributes
 - Query options
 - Conditionnal querying
-- reusable queries
+- Reusable queries
 - TypeScript safety
-- useSuspenseQuery (qith suspense component)
+- useSuspenseQuery (with suspense component)
 
 ## Getting Started
 
